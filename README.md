@@ -1,3 +1,5 @@
+![Straven Logo](./parle_readme_banner.png)
+
 ## Overview
 Parle is an intuitive real-time messaging platform.
 
